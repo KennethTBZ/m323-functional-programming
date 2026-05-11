@@ -1,0 +1,8 @@
+untitled/.idea
+untitled/out
+untitled/target
+*.iml
+.DS_Store
+*.log
+*.class
+untitled/project
