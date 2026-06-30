@@ -6,3 +6,5 @@ untitled/target
 *.log
 *.class
 untitled/project
+out/production
+.idea
